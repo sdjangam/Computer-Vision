@@ -3,7 +3,7 @@
 
 The vision systems are pretty much the same for humans, animals, insects, and most living organisms.
 
-They consist of a sensor or an eye to capture the image and a brain to process and interpret the image. The system then outputs a prediction of the image components based on the data extracted from the image.
+They consists of a sensor or an eye to capture the image and a brain to process and interpret the image. The system then outputs a prediction of the image components based on the data extracted from the image.
 
 
 ![image](https://user-images.githubusercontent.com/67232573/122062492-50459480-cda4-11eb-9c8a-15b57bf02edd.png)
